@@ -6,7 +6,6 @@
 #include "database.hpp"
 #include "utilities.hpp"
 #include "expense.hpp"
-#include "mapping.hpp"
 
 using namespace std;
 
