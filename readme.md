@@ -55,4 +55,10 @@ make clean
 ```
 
 ## Project TO-DO List
+- [ ] Set this month budget
+- [ ] Edit this month budget
+- [ ] Generate csv to report expense daily/monthly
+- [ ] Warning when exceeding the set budget
+- [ ] Adding Build instruction in readme for Windows and Mac
+- [ ] Create Unit Testing (not mandatory)
 
