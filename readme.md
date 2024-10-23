@@ -32,6 +32,7 @@ expense-traker/
 │     └── utilities.cpp #
 │
 └── Makefile            # Makefile for building the project
+```
 
 ## Requirements
 

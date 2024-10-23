@@ -9,7 +9,7 @@ BUILD_DIR = build
 
 # Source files and output binary
 SRC_FILES = $(SRC_DIR)/main.cpp $(SRC_DIR)/database.cpp $(SRC_DIR)/report.cpp $(SRC_DIR)/budget.cpp $(SRC_DIR)/utilities.cpp $(SRC_DIR)/expense.cpp
-OUTPUT = $(BUILD_DIR)/expense_tracker.exe
+OUTPUT = $(BUILD_DIR)/expense_tracker.out
 
 # Default target
 all: $(OUTPUT)
